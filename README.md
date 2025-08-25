@@ -23,4 +23,4 @@ This project simulates a 3-site enterprise network in GNS3 with VLAN segmentatio
 - Draw.io (diagramming)
 
 ---
-Created by [Prinson Rodrigues]
+Created by Prinson Rodrigues
