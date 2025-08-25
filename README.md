@@ -1,4 +1,4 @@
-#Enterprise Multi-Site Network Simulation
+# Enterprise Multi-Site Network Simulation
 
 This project simulates a 3-site enterprise network in GNS3 with VLAN segmentation, OSPF routing, ACLs, NAT, DHCP, and GRE over IPsec VPN for secure LAN-to-LAN communication.
 
