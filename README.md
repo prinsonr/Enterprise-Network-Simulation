@@ -13,7 +13,6 @@ This project simulates a 3-site enterprise network in GNS3 with VLAN segmentatio
 
 ## Repository Structure
 - **Network-Diagram.png** → Topology
-- **IP-Plan.xlsx** → Addressing scheme
 - **Configs/** → Device configurations
 - **Screenshots/** → Key verification outputs
 - **Project-Report.pdf** → Documentation
@@ -24,4 +23,4 @@ This project simulates a 3-site enterprise network in GNS3 with VLAN segmentatio
 - Draw.io (diagramming)
 
 ---
-Created by [Your Name]
+Created by [Prinson Rodrigues]
